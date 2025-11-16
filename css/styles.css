@@ -424,7 +424,7 @@ img {
 .footer-form {
   margin-left: 80px;
 }
-.Subscribe-form {
+.subscribe-form {
   display: flex;
   flex-direction: row;
   gap: 24px;
